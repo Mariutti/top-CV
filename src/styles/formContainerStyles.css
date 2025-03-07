@@ -1,0 +1,16 @@
+.form {
+    /* height: 100dvh; */
+    display: flex;
+    flex-direction: column;
+    gap:3em
+}
+
+.btnContainer {
+    display: flex;
+    justify-content: center;
+    gap: 2em;;
+}
+
+.btn {
+    padding: 1em 2em;
+}
